@@ -101,7 +101,7 @@
             "last_commit": "2025-12-13T16:27:52Z",
             "owner": "openBrushograph",
             "repo": "openBrushograph_hardware",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-06-02T19:33:15Z",
             "owner": "grbl",
             "repo": "grbl",
-            "stars": 6116
+            "stars": 6117
           }
         },
         {
@@ -356,10 +356,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-11T16:52:02Z",
+            "last_commit": "2026-03-12T17:03:50Z",
             "owner": "cncjs",
             "repo": "cncjs",
-            "stars": 2557
+            "stars": 2558
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-03-08T08:08:23Z",
             "owner": "winder",
             "repo": "Universal-G-Code-Sender",
-            "stars": 2175
+            "stars": 2176
           }
         },
         {
@@ -1061,7 +1061,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-08T20:29:53Z",
+            "last_commit": "2026-03-13T02:09:16Z",
             "owner": "svg",
             "repo": "svgo",
             "stars": 22378
@@ -1228,7 +1228,7 @@
             "last_commit": "2025-06-16T16:37:13Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 14564
+            "stars": 14567
           }
         },
         {
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:03:45.376Z",
+    "last_updated": "2026-03-13T04:01:49.384Z",
     "original_repository": "beardicus/awesome-plotters",
     "source_repository": "v1nvn/enhansome-plotters",
     "source_repository_description": null,
