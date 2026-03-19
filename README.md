@@ -70,7 +70,7 @@ Pen plotters available to build or purchase, historical information, and restora
 
 Hardware for driving stepper motors and controlling pen plotters.
 
-* [TinyG](https://github.com/synthetos/TinyG) ⭐ 941 | 🐛 71 | 🌐 G-code | 📅 2025-09-06 - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+* [TinyG](https://github.com/synthetos/TinyG) ⭐ 940 | 🐛 71 | 🌐 G-code | 📅 2025-09-06 - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 * [grblShield](https://github.com/synthetos/grblShield) ⭐ 139 | 🐛 6 | 🌐 C | 📅 2013-11-07 - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 * [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
 * [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
@@ -120,9 +120,9 @@ HPGL is a text-based protocol used by most old pen plotters and many new vinyl c
 
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
-* [grbl](https://github.com/grbl/grbl) ⭐ 6,119 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
-* [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,561 | 🐛 134 | 🌐 JavaScript | 📅 2026-03-12 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,177 | 🐛 203 | 🌐 Java | 📅 2026-03-17 - Java-based grbl-compatible cross-platform G-code sender.
+* [grbl](https://github.com/grbl/grbl) ⭐ 6,120 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+* [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,562 | 🐛 134 | 🌐 JavaScript | 📅 2026-03-12 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,175 | 🐛 202 | 🌐 Java | 📅 2026-03-17 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
 * [svg2gcode](https://github.com/em/svg2gcode) ⭐ 54 | 🐛 7 | 🌐 JavaScript | 📅 2014-12-05 - Node.js command line utility for converting SVG to G-code.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,391 | 🐛 254 | 🌐 JavaScript | 📅 2026-03-14 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,393 | 🐛 253 | 🌐 JavaScript | 📅 2026-03-14 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 879 | 🐛 60 | 🌐 Python | 📅 2026-03-03 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -427,6 +427,6 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,581 | 🐛 9 | 🌐 HTML | 📅 2025-06-16
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,585 | 🐛 9 | 🌐 HTML | 📅 2025-06-16
 * [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,807 | 🐛 6 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 96 | 🐛 0 | 📅 2020-12-29
