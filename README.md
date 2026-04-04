@@ -122,7 +122,7 @@ G-code is a text-based standard for controlling CNC machines. Though it was desi
 
 * [grbl](https://github.com/grbl/grbl) ⭐ 6,136 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 * [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,573 | 🐛 137 | 🌐 JavaScript | 📅 2026-04-02 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,186 | 🐛 203 | 🌐 Java | 📅 2026-04-02 - Java-based grbl-compatible cross-platform G-code sender.
+* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,186 | 🐛 204 | 🌐 Java | 📅 2026-04-02 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
 * [svg2gcode](https://github.com/em/svg2gcode) ⭐ 55 | 🐛 7 | 🌐 JavaScript | 📅 2014-12-05 - Node.js command line utility for converting SVG to G-code.
@@ -147,7 +147,7 @@ Software for controlling plotter hardware.
 * [RoboPaint](https://github.com/evil-mad/robopaint) ⭐ 131 | 🐛 47 | 🌐 JavaScript | 📅 2018-01-09 - Software for the WaterColorBot.
 * [PenPlotter](https://github.com/RickMcConney/PenPlotter) ⭐ 125 | 🐛 22 | 🌐 C | 📅 2018-12-24 - Polargraph controller that uses repetier firmware.
 * [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2024-10-19 - Example code for the Line-us plotter's G-code-based API.
-* [xy](https://github.com/fogleman/xy) ⭐ 71 | 🐛 1 | 🌐 Python | 📅 2016-07-25 - Utilities for the Makeblock XY Plotter Robot Kit.
+* [xy](https://github.com/fogleman/xy) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2016-07-25 - Utilities for the Makeblock XY Plotter Robot Kit.
 * [py\_silhouette](https://github.com/mossblaser/py_silhouette) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2025-11-12 - Python library for controlling Silhouette plotters and cutters.
 * [@beardicus/line-us](https://github.com/beardicus/line-us) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-04 - JavaScript library for controlling the Line-us machine from Node or the browser.
 * [plottie](https://github.com/mossblaser/plottie) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2024-06-01 - Command-line tool for controlling Silhouette plotters and cutters with SVG input.
@@ -201,7 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 Tools to manipulate and optimize vector-based file formats.
 
-* [svgo](https://github.com/svg/svgo) ⭐ 22,418 | 🐛 251 | 🌐 JavaScript | 📅 2026-03-25 - Node.js-based tool for optimizing SVG files.
+* [svgo](https://github.com/svg/svgo) ⭐ 22,421 | 🐛 252 | 🌐 JavaScript | 📅 2026-03-25 - Node.js-based tool for optimizing SVG files.
 * [vpype](https://github.com/abey79/vpype) ⭐ 881 | 🐛 60 | 🌐 Python | 📅 2026-04-02 - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 * [svg-crowbar](https://github.com/NYTimes/svg-crowbar) ⚠️ Archived - Chrome-only bookmarklet for extracting SVG from an HTML document.
 * [svgsort](https://github.com/inconvergent/svgsort) ⚠️ Archived - Path planning for plotting SVG files, reduces time spent moving with the pen up.
@@ -214,7 +214,7 @@ Tools to manipulate and optimize vector-based file formats.
 
 Single-line vector fonts or "engraving fonts".
 
-* [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) ⭐ 83 | 🐛 3 | 🌐 C | 📅 2018-01-01 - C library and original font data for the Hershey fonts.
+* [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) ⭐ 84 | 🐛 3 | 🌐 C | 📅 2018-01-01 - C library and original font data for the Hershey fonts.
 * [hf2gcode](https://github.com/Andy1978/hf2gcode) ⭐ 53 | 🐛 3 | 🌐 C | 📅 2022-04-25 - Generates G-code from text with a Hershey font.
 * [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) ⭐ 21 | 🐛 0 | 📅 2025-04-11 - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 * [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
@@ -427,6 +427,6 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,645 | 🐛 13 | 🌐 HTML | 📅 2026-04-01
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,648 | 🐛 13 | 🌐 HTML | 📅 2026-04-01
 * [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,811 | 🐛 9 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 96 | 🐛 0 | 📅 2020-12-29
