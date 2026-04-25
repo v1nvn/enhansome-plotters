@@ -45,7 +45,7 @@ A short selection of resources to help you get started with pen plotters.
 
 Pen plotters available to build or purchase, historical information, and restoration projects.
 
-* [PlotterXY](https://github.com/jamescarruthers/PlotterXY) ⭐ 80 | 🐛 7 | 🌐 G-code | 📅 2024-07-22 - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
+* [PlotterXY](https://github.com/jamescarruthers/PlotterXY) ⭐ 81 | 🐛 7 | 🌐 G-code | 📅 2024-07-22 - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 * [Apple-410](https://github.com/phooky/Apple-410) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2025-04-29 - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
 * [openBrushograph](https://github.com/openBrushograph/openBrushograph_hardware) ⭐ 20 | 🐛 0 | 🌐 OpenSCAD | 📅 2025-12-13 - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 * [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-04-11 - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
@@ -120,9 +120,9 @@ HPGL is a text-based protocol used by most old pen plotters and many new vinyl c
 
 G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
-* [grbl](https://github.com/grbl/grbl) ⭐ 6,153 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+* [grbl](https://github.com/grbl/grbl) ⭐ 6,154 | 🐛 564 | 🌐 C | 📅 2024-06-02 - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
 * [cncjs](https://github.com/cncjs/cncjs) ⭐ 2,586 | 🐛 137 | 🌐 JavaScript | 📅 2026-04-02 - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
-* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,196 | 🐛 208 | 🌐 Java | 📅 2026-04-22 - Java-based grbl-compatible cross-platform G-code sender.
+* [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) ⭐ 2,196 | 🐛 206 | 🌐 Java | 📅 2026-04-25 - Java-based grbl-compatible cross-platform G-code sender.
 * [gcodeplot](https://github.com/arpruss/gcodeplot) ⭐ 193 | 🐛 19 | 🌐 Python | 📅 2025-04-21 - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 * [svg2gcode](https://github.com/vishpat/svg2gcode) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2018-07-14 - Python utility for fast SVG to G-code conversion.
 * [svg2gcode](https://github.com/em/svg2gcode) ⭐ 55 | 🐛 7 | 🌐 JavaScript | 📅 2014-12-05 - Node.js command line utility for converting SVG to G-code.
@@ -140,7 +140,7 @@ Software for controlling plotter hardware.
 * [LaserGRBL](https://github.com/arkypita/LaserGRBL) ⭐ 1,568 | 🐛 596 | 🌐 C# | 📅 2025-05-29 - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 * [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) ⭐ 849 | 🐛 25 | 🌐 C# | 📅 2026-04-15 - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 * [saxi](https://github.com/nornagon/saxi) ⭐ 500 | 🐛 40 | 🌐 TypeScript | 📅 2025-02-20 - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
-* [axidraw](https://github.com/evil-mad/axidraw) ⭐ 461 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
+* [axidraw](https://github.com/evil-mad/axidraw) ⭐ 462 | 🐛 13 | 🌐 Python | 📅 2024-04-12 - Official AxiDraw extensions for Inkscape.
 * [Inkcut](https://github.com/inkcut/inkcut) ⭐ 402 | 🐛 137 | 🌐 Python | 📅 2026-04-21 - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 * [axi](https://github.com/fogleman/axi) ⭐ 283 | 🐛 14 | 🌐 Python | 📅 2020-02-29 - Unofficial Python library for the AxiDraw v3.
 * [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) ⚠️ Archived - Firmware for the Makelangelo polargraph robot.
@@ -214,7 +214,7 @@ Tools to manipulate and optimize vector-based file formats.
 
 Single-line vector fonts or "engraving fonts".
 
-* [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) ⭐ 87 | 🐛 3 | 🌐 C | 📅 2018-01-01 - C library and original font data for the Hershey fonts.
+* [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) ⭐ 88 | 🐛 3 | 🌐 C | 📅 2018-01-01 - C library and original font data for the Hershey fonts.
 * [hf2gcode](https://github.com/Andy1978/hf2gcode) ⭐ 53 | 🐛 3 | 🌐 C | 📅 2022-04-25 - Generates G-code from text with a Hershey font.
 * [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) ⭐ 21 | 🐛 0 | 📅 2025-04-11 - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 * [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
@@ -427,6 +427,6 @@ Artists selling plotter art online.
 
 Related awesome lists for further exploration.
 
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,720 | 🐛 13 | 🌐 HTML | 📅 2026-04-01
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,722 | 🐛 13 | 🌐 HTML | 📅 2026-04-01
 * [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) ⭐ 1,812 | 🐛 9 | 📅 2024-06-04
 * [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters) ⭐ 97 | 🐛 0 | 📅 2020-12-29
